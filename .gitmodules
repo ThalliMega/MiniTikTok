@@ -7,3 +7,12 @@
 [submodule "MiniTikTok-User-Http"]
 	path = MiniTikTok-User-Http
 	url = git@github.com:ThalliMega/MiniTikTok-User-Http.git
+[submodule "mini-tiktok-comment"]
+	path = mini-tiktok-comment
+	url = git@github.com:xiwen1/mini-tiktok-comment.git
+[submodule "MiniTikTok-Relation"]
+	path = MiniTikTok-Relation
+	url = git@github.com:aldlss/MiniTikTok-Relation.git
+[submodule "mini_tiktok_feed"]
+	path = mini_tiktok_feed
+	url = git@github.com:sosyz/mini_tiktok_feed.git
