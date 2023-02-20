@@ -1,12 +1,18 @@
 [submodule "MiniTikTok-Auth"]
 	path = MiniTikTok-Auth
 	url = git@github.com:ThalliMega/MiniTikTok-Auth.git
+	branch = main
+	shallow = true
 [submodule "MiniTikTok-User"]
 	path = MiniTikTok-User
 	url = git@github.com:ThalliMega/MiniTikTok-User.git
+	branch = main
+	shallow = true
 [submodule "MiniTikTok-User-Http"]
 	path = MiniTikTok-User-Http
 	url = git@github.com:ThalliMega/MiniTikTok-User-Http.git
+	branch = main
+	shallow = true
 [submodule "mini-tiktok-comment"]
 	path = mini-tiktok-comment
 	url = git@github.com:xiwen1/mini-tiktok-comment.git
