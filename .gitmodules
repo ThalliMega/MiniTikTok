@@ -16,9 +16,15 @@
 [submodule "mini-tiktok-comment"]
 	path = mini-tiktok-comment
 	url = git@github.com:xiwen1/mini-tiktok-comment.git
+	branch = main
+	shallow = true
 [submodule "MiniTikTok-Relation"]
 	path = MiniTikTok-Relation
-	url = git@github.com:aldlss/MiniTikTok-Relation.git
+	url = git@github.com:aldlss/MiniTikTok-Social-Module.git
+	branch = master
+	shallow = true
 [submodule "mini_tiktok_feed"]
 	path = mini_tiktok_feed
 	url = git@github.com:sosyz/mini_tiktok_feed.git
+	branch = master
+	shallow = true
